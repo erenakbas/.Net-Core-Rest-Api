@@ -1,0 +1,14 @@
+C:\angularCore\backend\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.2\CustomerManagement.deps.json
+C:\angularCore\backend\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.2\CustomerManagement.runtimeconfig.json
+C:\angularCore\backend\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.2\CustomerManagement.runtimeconfig.dev.json
+C:\angularCore\backend\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.2\CustomerManagement.dll
+C:\angularCore\backend\CustomerManagement\CustomerManagement\bin\Debug\netcoreapp2.2\CustomerManagement.pdb
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.csproj.CoreCompileInputs.cache
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.RazorAssemblyInfo.cache
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.RazorAssemblyInfo.cs
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.AssemblyInfoInputs.cache
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.AssemblyInfo.cs
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.RazorTargetAssemblyInfo.cache
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.dll
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.pdb
+C:\angularCore\backend\CustomerManagement\CustomerManagement\obj\Debug\netcoreapp2.2\CustomerManagement.csprojAssemblyReference.cache
